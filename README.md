@@ -18,12 +18,12 @@ Postman response could be saved as a ".zip" on your computer to check response.
 
 ### Software development process:
 
--Planning should clearly define the scope and purpose of the application. Also calculate capacity of team.
--Defining requirements is considered part of planning to determine what the application is supposed to do and its requirements. Bussiness reqirements and technical needs should define. Some chart apps like Miro board would be useful in this process.
--Designing architecture,interface,platform,comminucation, security. For example how many services will be implemented, which language will be used, how that services will be managed..
--Software Development is a process need to be done with a proper methodolgy choosen according to project and teeam  size.
--End to end test need to be done.
--DevOps process need to be designed.
+- Planning should clearly define the scope and purpose of the application. Also calculate capacity of team.
+- Defining requirements is considered part of planning to determine what the application is supposed to do and its requirements. Bussiness reqirements and technical needs should define. Some chart apps like Miro board would be useful in this process.
+- Designing architecture,interface,platform,comminucation, security. For example how many services will be implemented, which language will be used, how that services will be managed..
+- Software Development is a process need to be done with a proper methodolgy choosen according to project and teeam  size.
+- End to end test need to be done.
+- DevOps process need to be designed.
 
 
 
