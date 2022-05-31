@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.correvate.file.service.impl.CompressServiceImplTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.003 s - in com.correvate.file.service.impl.CompressServiceImplTest
